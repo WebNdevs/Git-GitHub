@@ -3,11 +3,14 @@ a,p,h1,h2,h3,h4,ul {
 	padding: 0;
 }
 
+body{
+	background-color: #ffffff;
+}
 .section-services {
 	padding-top: 110px;
 	padding-bottom: 120px;
 	font-family: "Poppins", sans-serif;
-	background-color: #211f24;
+	background-color: #743dc7;
 	color: #fff;
 }
 
